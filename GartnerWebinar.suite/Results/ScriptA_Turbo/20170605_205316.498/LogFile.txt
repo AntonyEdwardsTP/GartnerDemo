@@ -1,0 +1,4 @@
+﻿2017-06-05 20:53:16.499 +0100	START		Running ScriptA_Turbo.script
+2017-06-05 20:53:17.382 +0100	click	Safari_Icon	at (592, 1934)	8	on_scripta_turbo	ScriptA_Turbo.script
+2017-06-05 20:53:18.384 +0100	EndTestCase		(Duration:"1.883923", Errors:"1", Exceptions:"0", StartTime:"2017-06-05 20:53:16 +0100", Successes:"0", TestCase:"ScriptA_Turbo.script", Warnings:"0")
+2017-06-05 20:53:18.385 +0100	ABORTED		Execution Time 0:00:01 ScriptA_Turbo.script

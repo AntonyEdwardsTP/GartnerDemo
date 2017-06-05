@@ -1,0 +1,8 @@
+﻿2017-06-05 20:53:30.860 +0100	START		Running ScriptA_Turbo.script
+2017-06-05 20:53:32.477 +0100	click	Safari_Icon	at (592, 1934)	8	on_scripta_turbo	ScriptA_Turbo.script
+2017-06-05 20:53:39.388 +0100	click	Searchorenterwebsitename	at (724, 84)	9	on_scripta_turbo	ScriptA_Turbo.script
+2017-06-05 20:53:42.488 +0100	typetext		www.gartner.com[return]	10	on_scripta_turbo	ScriptA_Turbo.script
+2017-06-05 20:53:51.332 +0100	click	Refresh	at (1140, 77)	11	on_scripta_turbo	ScriptA_Turbo.script
+2017-06-05 20:53:54.100 +0100	waitfor	Refresh	found at (1140, 77)	12	on_scripta_turbo	ScriptA_Turbo.script
+2017-06-05 20:54:32.408 +0100	EndTestCase		(Duration:"61.547117", Errors:"1", Exceptions:"0", StartTime:"2017-06-05 20:53:30 +0100", Successes:"0", TestCase:"ScriptA_Turbo.script", Warnings:"0")
+2017-06-05 20:54:32.408 +0100	ABORTED		Execution Time 0:01:01 ScriptA_Turbo.script

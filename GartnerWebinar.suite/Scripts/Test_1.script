@@ -1,0 +1,3 @@
+﻿EnterURL "www.testplant.com"
+KillApp "Safari"
+EnterURL "www.gartner.com"

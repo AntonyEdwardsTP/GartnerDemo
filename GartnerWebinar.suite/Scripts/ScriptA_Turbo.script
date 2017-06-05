@@ -1,0 +1,19 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2017-06-05 20:33:10
+  From session:  GartnerDemo
+  Captured on:  2017-06-05 20:31:07
+  From server:  iPad_Air
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+Click "Safari_Icon"
+Click "Searchorenterwebsitename"
+TypeText "www.gartner.com",Return
+Click (Image:"Refresh", WaitFor:20)
+waitfor 20, "Refresh"
+Click Text: "WHY GARTNER"
+waitfor 20, Text: "Gartner is the world's leading" //Added by typing in code
+Click "OpenTabs"
+Click (Image:"CloseTabsButton", WaitFor:20)
+WaitFor 20.0, "Bookmarks" //Edited using guided record and playback
+waitfor 20, "Searchorenterwebsitename" //Edited by typing in code
+typetext HomeKey

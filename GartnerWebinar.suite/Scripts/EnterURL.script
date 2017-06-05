@@ -1,0 +1,4 @@
+﻿params MyURL
+Click "Safari_Icon"
+Click "Searchorenterwebsitename"
+TypeText MyURL,Return

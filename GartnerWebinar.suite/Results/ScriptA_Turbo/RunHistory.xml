@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="GartnerDemo">
+ <run>
+  <RunDate>2017-06-05 20:33:35.171 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>13.086986</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170605_203335.171/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

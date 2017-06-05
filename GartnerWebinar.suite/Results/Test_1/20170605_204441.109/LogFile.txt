@@ -1,0 +1,4 @@
+﻿2017-06-05 20:44:41.110 +0100	START		Running Test_1.script
+2017-06-05 20:44:41.382 +0100	click	Safari_Icon	at (592, 1934)	2	on_enterurl	EnterURL.script
+2017-06-05 20:44:47.223 +0100	EndTestCase		(Duration:"6.111835", Errors:"1", Exceptions:"0", StartTime:"2017-06-05 20:44:41 +0100", Successes:"0", TestCase:"Test_1.script", Warnings:"0")
+2017-06-05 20:44:47.223 +0100	ABORTED		Execution Time 0:00:06 Test_1.script

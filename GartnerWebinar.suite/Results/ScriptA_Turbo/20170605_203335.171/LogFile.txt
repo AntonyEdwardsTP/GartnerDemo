@@ -1,0 +1,10 @@
+﻿2017-06-05 20:33:35.172 +0100	START		Running GartnerDemo.script
+2017-06-05 20:33:35.695 +0100	click	Safari_Icon	at (592, 1934)	8	on_gartnerdemo	GartnerDemo.script
+2017-06-05 20:33:36.791 +0100	click	Searchorenterwebsitename	at (724, 84)	9	on_gartnerdemo	GartnerDemo.script
+2017-06-05 20:33:37.694 +0100	typetext		www.gartner.com[return]	10	on_gartnerdemo	GartnerDemo.script
+2017-06-05 20:33:43.288 +0100	click	Refresh	at (1140, 77)	11	on_gartnerdemo	GartnerDemo.script
+2017-06-05 20:33:44.227 +0100	click	OpenTabs	at (1467, 69)	12	on_gartnerdemo	GartnerDemo.script
+2017-06-05 20:33:47.334 +0100	click	CloseTabsButton	at (264, 402)	13	on_gartnerdemo	GartnerDemo.script
+2017-06-05 20:33:48.052 +0100	typetext		[homeKey]	14	on_gartnerdemo	GartnerDemo.script
+2017-06-05 20:33:48.259 +0100	EndTestCase		(Duration:"13.084364", Errors:"0", Exceptions:"0", StartTime:"2017-06-05 20:33:35 +0100", Successes:"1", TestCase:"GartnerDemo.script", Warnings:"0")
+2017-06-05 20:33:48.281 +0100	SUCCESS		Execution Time 0:00:13 GartnerDemo.script

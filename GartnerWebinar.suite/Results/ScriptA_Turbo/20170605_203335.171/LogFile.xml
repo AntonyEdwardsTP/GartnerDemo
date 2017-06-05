@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="GartnerDemo.script" package="GartnerWebinar.suite" timestamp="2017-06-05 20:33:35.171 +0100"
+ tests="1" successes="1" errors="0" time="13.086986">
+  <properties>
+   <property name="RunDate" value="2017-06-05 20:33:35.171 +0100"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="GartnerDemo.script" assertions="1" successes="1" errors="0" time="13.084364">
+  </testcase>
+ </testsuite>
+</testsuites>

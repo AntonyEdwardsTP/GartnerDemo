@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[557, 99, 627, 129], command:@"Click", eventNum:2, hotSpot:[592, 1934], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Safari_Icon", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[516, 1958, 1016, 1989], command:@"Click", eventNum:4, hotSpot:[724, 84], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Searchorenterwebsitename", searchType:@"Smooth", waitFor:@""}, OCRText:@"Q Search or enter website name", screenShotFile:@"Screen0004.png", useOCR:@"NO"}, {command:@"TypeText", eventNum:6, screenShotFile:@"Screen0006.png", text:@"\"www.gartner.com\",Return"}, {captureRect:[1105, 1956, 1175, 1986], command:@"Click", eventNum:38, hotSpot:[1140, 77], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Refresh", searchType:@"Smooth", waitFor:@"9.8"}, screenShotFile:@"Screen0038.png", waitFor:@"9.8"}, {captureRect:[1446, 1945, 1496, 1995], command:@"Click", eventNum:40, hotSpot:[1467, 69], imageName:@"", infoDict:{folderPath:@"/", imageName:@"OpenTabs", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0040.png"}, {captureRect:[269, 1607, 291, 1629], command:@"Click", eventNum:42, hotSpot:[277, 423], imageName:@"", infoDict:{folderPath:@"/", imageName:@"CloseTabsButton", searchType:@"Smooth", waitFor:@"3.1"}, screenShotFile:@"Screen0042.png", waitFor:@"3.1"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "Safari_Icon"</string>
+		<string>Click "Searchorenterwebsitename"</string>
+		<string>TypeText "www.gartner.com",Return</string>
+		<string>Click (Image:"Refresh", WaitFor:9.8)</string>
+		<string>Click "OpenTabs"</string>
+		<string>Click (Image:"CloseTabsButton", WaitFor:3.1)</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>Safari_Icon.png</string>
+			<string>Searchorenterwebsitename.png</string>
+			<string>Refresh.png</string>
+			<string>OpenTabs.png</string>
+			<string>CloseTabsButton.png</string>
+			<string>Safari_Icon.png</string>
+			<string>Searchorenterwebsitename.png</string>
+			<string>Refresh.png</string>
+			<string>OpenTabs.png</string>
+			<string>CloseTabsButton.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>
