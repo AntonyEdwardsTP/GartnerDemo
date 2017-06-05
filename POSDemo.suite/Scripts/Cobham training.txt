@@ -1,0 +1,7 @@
+(*) Comparing two date strings. Get them to send over data.
+
+(*) Add the log subtitle to the movie recording. Feature.
+
+(*) Set all settings to defaults from ePF. How? 
+
+(*) Status for how long each function takes to execute, to know which one to improve first. 
