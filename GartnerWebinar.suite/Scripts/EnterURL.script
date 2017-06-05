@@ -2,4 +2,4 @@
 Click "Safari_Icon"
 Click "Searchorenterwebsitename"
 TypeText MyURL,Return
-log "All good"/usr/bin/git
+log "All good"
